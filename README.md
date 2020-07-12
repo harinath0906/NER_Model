@@ -21,4 +21,4 @@ The below modules / techniques have been used in this project.
 * CRF layer
 
 # Report
-The report available [here](https://github.com/harinath0906/NER_Model/blob/master/Project_report.pdf) focusses on Data Pre-processing, Input Embedding, NER Model - Layers and Attention, Evaluation Setup, Evaluation Results.
+The report available [here](https://github.com/harinath0906/NER_Model/blob/master/Project_report.pdf) details out Data Pre-processing, Input Embedding, NER Model - Layers and Attention, Evaluation Setup, Evaluation Results.
