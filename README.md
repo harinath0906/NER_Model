@@ -22,3 +22,6 @@ The below modules / techniques have been used in this project.
 
 # Report
 The report available [here](https://github.com/harinath0906/NER_Model/blob/master/Project_report.pdf) details out Data Pre-processing, Input Embedding, NER Model - Layers and Attention, Evaluation Setup, Evaluation Results.
+
+# Notebook
+Please access the Jupyter Notebook from [here](https://colab.research.google.com/drive/1-x0vKddg0ugvIH4lARQC6SaFw8QbPuUi?usp=sharing) as GitHub has issues displaying the notebook.
